@@ -10,7 +10,7 @@
 
 ## :left_speech_bubble: Sobre mim
 - Tenho 24 anos, nascida em São Paulo capital mas atualmente moro no Rio de Janeiro.
-- Sou formada como Técnica em Automação Industrial, atuo na área mas estou em transição para IT.
+- Sou formada como Técnica em Automação Industrial, atuo na área há 5 anos e estou em transição para IT.
 - Sou estudante de Análise e Desenvolvimento de Sistemas.
 - Me identifico com Back-End, tenho grande interesse em desenvolvimento de softwares e IA.
 - Sou curiosa em diversos aspectos, estou sempre aprendendo algo sozinha e gosto de questionar o porquê das coisas.
