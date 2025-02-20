@@ -16,13 +16,15 @@
 - Sou curiosa em diversos aspectos, estou sempre aprendendo algo sozinha e gosto de questionar o porquê das coisas.
 
 ## 🎯 Objetivos
-- Atuar como Desenvolvedora Back-End e, no longo prazo, Engenheira de Software.
+- Atuar como Desenvolvedora Back end, no longo prazo, Engenheira de Software.
 - Estar sempre evoluindo no meu aprendizado para contribuir com os demais em sociedade e profissionalmente.
   
 ## 🛠 Principais Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -30,11 +32,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## 📚 Estudando
-- Python: Paradigmas, Aplicações e Metodologias (Estruturado, funcional, POO, RAD)
-- Java: Fundamentos, POO e Spring Boot.
-- Banco de Dados (SQL, NoSQL)
-- Boas Práticas de Código Limpo
-- Participando do Oracle Next Education: Formação Back-End (1 ano)
-
+- Java: POO, Spring Boot, JPA, Hibernate; 
+- Banco de Dados (MySQL, SQLite);
+- Computação em Nuvem: Azure;
+- Boas Práticas de Código Limpo;
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PAOLAHEGEL&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
