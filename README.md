@@ -11,7 +11,7 @@
   
 - 🤖 Formada como Técnica em Automação Industrial, atuo na área há 5 anos e estou em transição para Tecnologia.
 - 📚 Graduanda de Análise e Desenvolvimento de Sistemas.
-- 👩‍💻 Tenho curiosidade no desenvolvimento de softwares e IA. Sou curiosa em diversos aspectos e estou sempre aprendendo algo sozinha.
+- 👩‍💻 Interesse no desenvolvimento de softwares e IA. Sou curiosa em diversos aspectos e estou sempre aprendendo algo sozinha.
 - 🌱 Aprimorando minhas habilidade com Java Spring Boot no desenvolvimento de APIs, integração com MySQL e depoly em ambientes nuvem no Azure.
   
 ## Habilidades Técnicas
