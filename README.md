@@ -9,11 +9,10 @@
 - 📍 Rio de Janeiro, Brasil.
   &nbsp;
   
-- 🤖 Formada como Técnica em Automação Industrial, atuo na área há 5 anos e estou em transição para Tecnologia.
-- 📚 Graduanda de Análise e Desenvolvimento de Sistemas.
-- 👩‍💻 Interesse no desenvolvimento de softwares e IA. Sou curiosa em diversos aspectos e estou sempre aprendendo algo sozinha.
-- 🌱 Aprimorando minhas habilidade com Java Spring Boot no desenvolvimento de APIs, integração com MySQL e depoly em ambientes nuvem no Azure.
-  
+- 📚 Formada como Técnica em Automação Industrial e graduanda de Análise e Desenvolvimento de Sistemas.
+- 👩‍💻 Interesse no desenvolvimento de softwares e IA. Sou curiosa em diversos aspectos, o que me permite estar em constante aprendizado.
+- 🌱 Aprimorando minhas habilidade com Java, Spring Boot, desenvolvimento de APIs, integração com MySQL e depoly em ambientes nuvem no Azure.
+
 ## Habilidades Técnicas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,4 +29,8 @@
   </div>
   <br>
 
-## 
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolamouranascimento/)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa.svg?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/paolamouradon-3144/)
+[![DIO](https://img.shields.io/badge/Digital_Innovation_One-2A2A72.svg?style=for-the-badge&logo=monogram&logoColor=white)](https://www.dio.me/users/paolamoura_kj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paolahegel)
