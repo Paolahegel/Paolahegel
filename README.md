@@ -33,4 +33,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolamouranascimento/)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa.svg?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/paolamouradon-3144/)
 [![DIO](https://img.shields.io/badge/Digital_Innovation_One-2A2A72.svg?style=for-the-badge&logo=monogram&logoColor=white)](https://www.dio.me/users/paolamoura_kj)
+[![Perfil da Alura](https://img.shields.io/badge/ALURA-0073b1?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/user/paolanascimento-kj)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paolahegel)
