@@ -4,7 +4,7 @@
   </a>
 </div>
 
-**Desenvolvedora Back-end**
+**Desenvolvedora de Software**
 
 - 📍 Rio de Janeiro, Brasil.
   &nbsp;
@@ -13,25 +13,58 @@
 - 👩‍💻 Interesse no desenvolvimento de softwares e IA. Sou curiosa em diversos aspectos, o que me permite estar em constante aprendizado.
 - 🌱 Aprimorando minhas habilidade com Java, Spring Boot, desenvolvimento de APIs, integração com MySQL e depoly em ambientes nuvem no Azure.
 
-## Habilidades Técnicas
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-  <br>
-  <br>
+###
+
+## 💻 Habilidades Técnicas
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="34" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="34" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="34" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="34" alt="azure logo"  />
+</div>
+
+###
   
-  <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolahegel&layout=compact&show_icons=true&theme=dracula"/>
-  </div>
-  <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paolahegel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolamouranascimento/)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa.svg?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/paolamouradon-3144/)
-[![DIO](https://img.shields.io/badge/Digital_Innovation_One-2A2A72.svg?style=for-the-badge&logo=monogram&logoColor=white)](https://www.dio.me/users/paolamoura_kj)
-[![Perfil da Alura](https://img.shields.io/badge/ALURA-0073b1?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/user/paolanascimento-kj)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paolahegel)
+<div align="center">
+  <a href="www.linkedin.com/in/paolamouranascimento" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"  />
+  </a>
+  <a href="paolamoura.kj@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="38" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://discord.com/users/paolina4333" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="38" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/paolahegel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="38" alt="instagram logo"  />
+  </a>
+</div>
+
