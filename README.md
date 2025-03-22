@@ -52,7 +52,7 @@
 
 ###
 
-## 🌐 Conecte-se comigo
+## 🌟 Conecte-se comigo
 <div align="center">
   <a href="www.linkedin.com/in/paolamouranascimento" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"  />
