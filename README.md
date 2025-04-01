@@ -5,13 +5,11 @@
 </div>
 
 **Desenvolvedora de Software**
-
-- 📍 Rio de Janeiro, Brasil.
-  &nbsp;
   
-- 📚 Formada como Técnica em Automação Industrial e graduanda de Análise e Desenvolvimento de Sistemas.
-- 👩‍💻 Interesse no desenvolvimento de softwares e IA. Sou curiosa em diversos aspectos, o que me permite estar em constante aprendizado.
-- 🌱 Aprimorando minhas habilidade com Java, Spring Boot, desenvolvimento de APIs, integração com MySQL e depoly em ambientes nuvem no Azure.
+- 📚 Graduanda de Análise e Desenvolvimento de Sistemas, formada como Técnica em Automação Industrial e em transição de carreira para o desenvolvimento back-end.
+- 👩‍💻 Interesse no desenvolvimento e arquitetura de softwares.
+- 💡 Sou curiosa em diversos aspectos, o que me permite estar em constante aprendizado.
+- 🌱 Aprimorando minhas habilidade com Java, Spring Boot, desenvolvimento de APIs, integração com Banco de Dados e ambientes no Azure.
 
 ###
 
@@ -54,7 +52,7 @@
 
 ## 🌟 Conecte-se comigo
 <div align="center">
-  <a href="www.linkedin.com/in/paolamouranascimento" target="_blank">
+  <a href="https://www.linkedin.com/in/paolamouranascimento/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"  />
   </a>
   <a href="paolamoura.kj@hotmail.com" target="_blank">
