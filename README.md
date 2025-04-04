@@ -63,9 +63,9 @@
 ###
   
 <p align="center">
-  <img height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolahegel&layout=donut&theme=rose_pine&hide_border=false" alt="Linguagens"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolahegel&layout=donut&theme=rose_pine&hide_border=false" alt="Linguagens"/>
   &nbsp;&nbsp;
-  <img height="215" src="https://github-readme-stats.vercel.app/api?username=paolahegel&show_icons=true&theme=rose_pine&hide_border=false" alt="GitHub Stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=paolahegel&show_icons=true&theme=rose_pine&hide_border=false" alt="GitHub Stats"/>
 </p>
 
 
