@@ -21,7 +21,7 @@
       </p>
     </td>
     <td>
-      <img src="https://octodex.github.com/images/nyantocat.gif" width="280" alt="Nyantocat">
+      <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="280" alt="Coding GIF">
     </td>
   </tr>
 </table>
@@ -92,6 +92,8 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=%22Talk%20is%20cheap.%20Show%20me%20the%20code.%22&author=Linus%20Torvalds&font=italic" alt="Quote from Linus Torvalds" />
 </div>
+
+<div align="center">
 
 
 
