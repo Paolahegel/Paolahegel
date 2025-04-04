@@ -3,13 +3,31 @@
     <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20me+chamo+Paola+Moura;Seja+bem+vindo(a)!+😊" alt="Typing SVG" style="font-size: 150px">
   </a>
 </div>
-
-**Desenvolvedora de Software**
   
-- 📚 Graduanda em Análise e Desenvolvimento de Sistemas e em transição de carreira para o desenvolvimento back-end.
-- 👩‍💻 Foco em desenvolvimento e arquitetura de softwares.
-- 🌱 Aprimorando minhas habilidades com Java, Spring Boot, desenvolvimento de APIs, integração com banco de dados e ambientes no Azure.
-- 💡 Curiosidade sobre mim: tenho experiência com circuitos elétricos, eletrônicos e agora estou desenvolvendo minhas habilidades em programação. Uma verdadeira jornada do hardware ao script!
+
+<div align="center">
+
+## <span style="color:#FF66C4;">Desenvolvedora de Software</span>
+
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        📚 Graduanda em Análise e Desenvolvimento de Sistemas e em transição de carreira para o desenvolvimento back-end.<br><br>
+        👩‍💻 Foco em desenvolvimento e arquitetura de softwares.<br><br>
+        🌱 Aprimorando minhas habilidades com Java, Spring Boot, desenvolvimento de APIs, integração com banco de dados e ambientes no Azure.<br><br>
+        💡 Curiosidade sobre mim: tenho experiência com circuitos elétricos, eletrônicos e agora estou desenvolvendo minhas habilidades em programação.<br>
+        Uma verdadeira jornada do hardware ao script!
+      </p>
+    </td>
+    <td>
+      <img src="https://octodex.github.com/images/nyantocat.gif" width="280" alt="Nyantocat">
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ###
 
@@ -44,9 +62,13 @@
 
 ###
   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paolahegel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolahegel&layout=donut&theme=rose_pine&hide_border=false" alt="Linguagens"/>
+  &nbsp;&nbsp;
+  <img height="215" src="https://github-readme-stats.vercel.app/api?username=paolahegel&show_icons=true&theme=rose_pine&hide_border=false" alt="GitHub Stats"/>
+</p>
+
+
 
 ###
 
@@ -65,4 +87,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="38" alt="instagram logo"  />
   </a>
 </div>
+
+---
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quote=%22Talk%20is%20cheap.%20Show%20me%20the%20code.%22&author=Linus%20Torvalds&font=italic" alt="Quote from Linus Torvalds" />
+</div>
+
+
+
+
+
+
 
