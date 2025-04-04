@@ -88,31 +88,17 @@
   </a>
 </div>
 
-## 🗂️ Repositórios
+---
 
 <!-- Citação Centralizada -->
 <blockquote align="center">
-  <p style="font-size:1.5em; color:#f8f8f8;">
+  <p style="font-size:8.5em; color:#f8f8f8;">
     📜 <i>"Talk is cheap. Show me the code."</i><br>
     — Linus Torvalds
   </p>
 </blockquote>
 
-<table align="center">
-  <tr>
-    <!-- Coluna Esquerda -->
-    <td align="center" valign="top" style="padding-right: 40px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=paolahegel&repo=api-rick-and-morty&theme=aura_dark" /><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=paolahegel&repo=backend-game-list&theme=aura_dark" />
-    </td>
-    </td>
-    <!-- Coluna Direita -->
-    <td align="center" valign="top" style="padding-left: 40px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=paolahegel&repo=banco-digital&theme=aura_dark" /><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=paolahegel&repo=jogo-sodoku&theme=aura_dark" />
-    </td>
-  </tr>
-</table>
+
 
 
 
