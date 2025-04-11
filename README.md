@@ -4,7 +4,6 @@
   </a>
 </div>
   
-
 <div align="center">
 
 ## <span style="color:#FF66C4;">Desenvolvedora de Software</span>
