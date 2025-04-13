@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20me+chamo+Paola+Moura;Seja+bem+vindo(a)!+😊" alt="Typing SVG" style="font-size: 150px">
   </a>
 </div>
-  
+
 <div align="center">
 
 ## <span style="color:#FF66C4;">Desenvolvedora de Software</span>
