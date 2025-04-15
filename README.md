@@ -14,7 +14,7 @@
         📚 Graduanda em Análise e Desenvolvimento de Sistemas e em transição de carreira para o desenvolvimento back-end.<br><br>
         👩‍💻 Foco em desenvolvimento e arquitetura de softwares.<br><br>
         🌱 Aprimorando minhas habilidades com Java, Spring Boot, desenvolvimento de APIs, integração com banco de dados e ambientes no Azure.<br><br>
-        💡 Curiosidade sobre mim: tenho experiência com circuitos elétricos, eletrônicos e agora estou desenvolvendo minhas habilidades em programação.<br>
+        💡 Curiosidade sobre mim: tenho experiência com circuitos elétricos, eletrônicos e agora estou desenvolvendo minhas habilidades em programação.
         Uma verdadeira jornada do hardware ao script!
       </p>
     </td>
