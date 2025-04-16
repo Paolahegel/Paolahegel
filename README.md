@@ -27,7 +27,6 @@
 </div>
 
 ###
-
 ## 💻 Habilidades Técnicas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
