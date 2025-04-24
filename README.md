@@ -83,7 +83,6 @@
 
 ---
 
-<!-- Citação Centralizada -->
 <blockquote align="center">
   <p style="font-size:8.5em; color:#f8f8f8;">
     📜 <i>"Talk is cheap. Show me the code."</i><br>
