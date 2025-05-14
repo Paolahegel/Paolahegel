@@ -66,6 +66,7 @@
 ###
 
 ## 🌟 Conecte-se comigo
+
 <div align="center">
   <a href="https://www.linkedin.com/in/paolamouranascimento/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"  />
@@ -79,7 +80,6 @@
 </div>
 
 ---
-
 
 <blockquote align="center">
   <p style="font-size:8.5em; color:#f8f8f8;">
