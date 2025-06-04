@@ -11,9 +11,9 @@
   <tr>
     <td>
       <p align="left">
-        📚 Técnica em Automação, graduanda em Análise e Desenvolvimento de Sistemas e em transição de carreira para o desenvolvimento back-end.<br><br>
+        📚 Graduanda no 3° período de ADS e estágiária na área de Engenheria de Software<br><br>
         👩‍💻 Foco em desenvolvimento e arquitetura de softwares.<br><br>
-        🌱 Aprimorando minhas habilidades com Java, Spring Boot, desenvolvimento de APIs, integração com banco de dados e ambientes no Azure.<br><br>
+        🌱 Aprimorando minhas habilidades com Java, Python, ambientes AWS, desenvolvimento de APIs e integração com banco de dados.<br><br>
         💡 Curiosidade sobre mim: tenho experiência com circuitos elétricos, eletrônica e agora com programação. Uma verdadeira jornada do hardware ao script!
       </p>
     </td>
