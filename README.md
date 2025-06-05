@@ -11,7 +11,7 @@
   <tr>
     <td>
       <p align="left">
-        📚 Graduanda no 3° período de ADS e estágiária na área de Engenheria de Software<br><br>
+        📚 Graduanda no 3° período de ADS e estágiária na área de Engenharia de Software<br><br>
         👩‍💻 Foco em desenvolvimento e arquitetura de softwares.<br><br>
         🌱 Aprimorando minhas habilidades com Java, Python, ambientes AWS, desenvolvimento de APIs e integração com banco de dados.<br><br>
         💡 Curiosidade sobre mim: tenho experiência com circuitos elétricos, eletrônica e agora com programação. Uma verdadeira jornada do hardware ao script!
